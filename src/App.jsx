@@ -2,6 +2,7 @@ import Navbar from './components/Navbar'
 import { CarouselTransition } from './components/Carousel'
 import Hero from './components/Hero'
 import Test from './components/Test'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <CarouselTransition></CarouselTransition>
       <Hero></Hero>
       </div>
+      <Footer></Footer>
       
        
         
